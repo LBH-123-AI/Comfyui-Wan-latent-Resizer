@@ -28,6 +28,21 @@ Each model is only **41.6 MB** with **10.90M parameters**, making inference fast
 
 Diverse content ensures robust performance on a wide range of up‑/down‑scaling tasks.
 
+
+### 📸 Comparison Results
+
+**Comparison 1** (wan2.1_latent_upscaler_comparison_001.png):
+
+![Comparison 1](examples/wan2.1_latent_upscaler_comparison_001.png)
+
+**Comparison 2** (wan2.1_latent_upscaler_comparison_002.png):
+
+![Comparison 2](examples/wan2.1_latent_upscaler_comparison_002.png)
+
+*Left: Latent Interpolation Upscaling (blurry) | Right: Learned Latent Resizing (sharp, our method)*
+
+---
+
 ### 🚀 Key Features
 
 - ✅ **Neural latent resizing** – learned specifically for Wan2.1, vastly outperforming bilinear interpolation  
