@@ -42,7 +42,7 @@ Diverse content ensures robust performance on a wide range of upscaling and down
 
 **Comparison 3 (wan2.1_latent_upscaler_comparison_003.mp4):**
 
-<video controls src="examples/wan2.1_latent_upscaler_comparison_003.mp4"></video>
+<video src="examples/wan2.1_latent_upscaler_comparison_003.mp4" controls width="100%"></video>
 
 Left: Latent Interpolation Upscaling (blurry) | Right: Learned Latent Resizing (sharp, our method)
 
@@ -187,7 +187,7 @@ This project is inspired by and builds upon ComfyUi_NNLatentUpscale (https://git
 
 **对比示例 3（wan2.1_latent_upscaler_comparison_003.mp4）：**
 
-<video controls src="examples/wan2.1_latent_upscaler_comparison_003.mp4"></video>
+<video src="examples/wan2.1_latent_upscaler_comparison_003.mp4" controls width="100%"></video>
 
 左：Latent 插值放大（画面模糊） | 右：学习型 Latent 缩放（画面清晰，即本方法）
 
